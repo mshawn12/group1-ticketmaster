@@ -2,32 +2,32 @@
 ----------------
 ## Ticketmaster
 
-###Group One
+### Group One
 
 Alvaro Aquino, Emmanuel Garcia, Frantzy Francois, Jonathan Pokorny, and Mickey Young
 
-GitHub Link: https://github.com/mshawn12/group1-Project
+GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 
-###Hypothesis: 
+### Hypothesis: 
 
 - What events cost more money to attend?
 
 - Are events more expensive in certain states?
 
-###Project Description & Outline
+### Project Description & Outline
 
 In order to test the Group’s hypothesis, the team leveraged the Ticketmaster API along with a number of tools and tactics such as Python, Pandas, NumPy, Matplotlib, HVPlots, and various export methods. Using loops, lists, and DataFrames, the team pulled everything from the Event Name, Date, Location (City, State, Longitude, Latitude), Venue, Event Type, Genre, Sub-Genre, Minimum Ticket Price ($), and Maximum Ticket Price ($). Once the core data was collected, the team used a series of filters and visualizations to better understand the story the data was telling. Over (15) DataFrames, (7) map plots, and (12) bar charts were developed to generate the team’s findings and analyses.
 
-###Datasets to Be Used
+### Datasets to Be Used
 
 Ticketmaster API: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
 
-###Goals
+### Goals
 
 To implement what we learned in class to attack our first ever data science project.
 
-###Research Questions to Answer
+### Research Questions to Answer
 
 Music vs Sports
 
@@ -40,7 +40,7 @@ Number of Events by Sport
 Highest Average Price Across the Country by Sport and Music Genre
 
 
-###Rough Breakdown of tasks
+### Rough Breakdown of tasks
 
 By becoming familiar with the documentation we learned how to use the Ticketmaster API and identify what data can be extracted using the free version 
 
@@ -75,7 +75,7 @@ Record live presentation
 Create GitHub repository
 
 
-###Conclusion
+### Conclusion
 
 Basketball had the highest average price per ticket in sports, and rock had the highest average price for music.
 
@@ -96,7 +96,7 @@ Future Plans
 For this project, we used a free API key from Ticketmaster, which was useful, but certainly did not provide unlimited requests and types of data.  If we were to expand on this project in the future, we might consider spending money on a more premium API key from ticketmaster and collecting much more data.  We would also look at secondary markets for scalped ticket data, and consider API keys for sites like StubHub.  Lastly, we would also consider web-scraping as a last resort to gather any data not obtained through Ticketmaster and StubHub.  For example, we could look at places like eBay or Craigslist.
 ----------
 
-##Requirements
+## Requirements
 Completed Analysis Uploaded to GitHub (20 points)
 Final data analysis contains ample and complete information in README file (10 points)
 Final repository is acceptable for professional quality presentation (10 points)
