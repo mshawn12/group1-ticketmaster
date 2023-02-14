@@ -17,7 +17,7 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 ### Project Description & Outline
 
-- In order to test the Group’s hypothesis, the team leveraged the Ticketmaster API along with a number of tools and tactics such as Python, Pandas, NumPy, Matplotlib, HVPlots, and various export methods. Using loops, lists, and DataFrames, the team pulled everything from the Event Name, Date, Location (City, State, Longitude, Latitude), Venue, Event Type, Genre, Sub-Genre, Minimum Ticket Price $, and Maximum Ticket Price $. Once the core data was collected, the team used a series of filters and visualizations to better understand the story the data was telling. Over (15) DataFrames, (7) map plots, and (12) bar charts were developed to generate the team’s findings and analyses.
+- In order to test the Group’s hypothesis, the team leveraged the Ticketmaster API along with a number of tools and tactics such as Python, Pandas, NumPy, Matplotlib, HVPlots, and various export methods. Using loops, lists, and DataFrames, the team pulled everything from the Event Name, Date, Location (City, State, Longitude, Latitude), Venue, Event Type, Genre, Sub-Genre, Minimum and Maximum Ticket Prices in USD. Once the core data was collected, the team used a series of filters and visualizations to better understand the story the data was telling. Over (15) DataFrames, (7) map plots, and (12) bar charts were developed to generate the team’s findings and analyses.
 
 ### Datasets to Be Used
 
