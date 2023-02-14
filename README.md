@@ -1,4 +1,4 @@
-# group1-Project
+# Group 1 | Project #1
 ----------------
 ## Ticketmaster
 
