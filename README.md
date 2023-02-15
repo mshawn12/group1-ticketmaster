@@ -90,6 +90,9 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 - Wisconsin and Arizona were the overall most expensive venues for events, with the Southwest having the highest number of events.
 
+- Out of the ~100 events analyzed, the cheapest tickets were $15 USD for Monster Jam (a Motorsports Racing event in Minnesota) and the most expensive tickets ​were $4,999 USD for Phoenix Suns vs. Oklahoma City Thunder (an NBA game in Arizona)
+
+- The Mean Average Price for Tickets was about $500.93 USD
 
 ### Future Plans
 
