@@ -78,7 +78,7 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 - Basketball had the highest average price per ticket in sports, and rock had the highest average price for music.
 
-- An interesting observation was that Wisconsin, Arizona, and California were the three most expensive locations for ticket sales.
+- An interesting observation was that Wisconsin and Arizona were the most expensive locations for ticket sales.
 
 - Hockey tickets were the most expensive in North Carolina.
 
