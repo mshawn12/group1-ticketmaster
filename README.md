@@ -25,7 +25,7 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 ### Goals
 
-- To implement what we learned in class to attack our first ever data science project.
+- Incorporate all of our current knowledge to create a Data Analysis using a Ticketmaster API, Python, Pandas, NumPy, Matplotlib, and HVPlots to test, verify, and support our hypothesis.
 
 ### Research Questions to Answer
 
@@ -76,7 +76,7 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 ### Conclusion
 
-- Basketball had the highest average price per ticket in sports, and rock had the highest average price for music.
+- Basketball had the highest Average Price ($1,996.63 USD) per ticket in Sports
 
 - An interesting observation was that Wisconsin and Arizona were the most expensive locations for ticket sales.
 
@@ -84,11 +84,11 @@ GitHub Link: https://github.com/mshawn12/group1-ticketmaster
 
 - There are many types of factors that can influence the data sets, such as time of year.  California and Arizona are much more pleasant destinations in the winter, as opposed to the Northeast.  Also, music artists announce more concerts in the spring and summer, likely because many sports run in the fall and winter.
 
-- We didn’t expect to see Rock ticket prices being the most expensive.
+- We didn’t expect to see Rock ticket prices being the most expensive out of all Music Genres ($299.48 USD).
 
 - We thought Country music would be more popular in the South, but it was actually more popular in New York
 
-- Wisconsin and Arizona were the overall most expensive venues for events, with the Southwest having the highest number of events.
+- Wisconsin and Arizona were the overall most expensive venues for events, with the Southwest having the highest number of events. Given that Arizona also has one of highest Number of Events, we can confirm our hypothesis that events are more expensive in some States
 
 - Out of the ~100 events analyzed, the cheapest tickets were $15 USD for Monster Jam (a Motorsports Racing event in Minnesota) and the most expensive tickets ​were $4,999 USD for Phoenix Suns vs. Oklahoma City Thunder (an NBA game in Arizona)
 
