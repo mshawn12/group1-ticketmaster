@@ -26,6 +26,7 @@ certifi==2022.12.7
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1671179491669/work
 cftime @ file:///Users/runner/miniforge3/conda-bld/cftime_1666833990902/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+citipy==0.0.5
 click @ file:///Users/runner/miniforge3/conda-bld/click_1666770305245/work
 click-plugins==1.1.1
 cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1633637764473/work
@@ -85,6 +86,7 @@ jupyter_server @ file:///home/conda/feedstock_root/build_artifacts/jupyter_serve
 jupyter_server_terminals @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_terminals_1673491454549/work
 jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1649936611996/work
 jupyterlab-widgets @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_widgets_1671722028097/work
+kdtree==0.16
 kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1666805801984/work
 llvmlite==0.39.1
 locket @ file:///home/conda/feedstock_root/build_artifacts/locket_1650660393415/work
